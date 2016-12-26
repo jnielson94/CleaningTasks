@@ -1,0 +1,19 @@
+priority,name,needed,priority,name,needed,priority,name,needed,priority,name,needed,priority,name,needed,priority,name,needed
+2,Dishes,FALSE,1,Clear clutter,FALSE,18,"Toilet (Scrub inside, wipe outside) Sanitize",FALSE,6,Make Bed,FALSE,25,De-clutter,FALSE,27,Edge vacuum,FALSE
+3,Wipe off counters,FALSE,8,Vacuum Apartment,FALSE,19,Mirror,FALSE,7,De-clutter and organize,FALSE,51,Dust piano,FALSE,28,Dust,FALSE
+4,Wipe/Clear off table,FALSE,9,Dust and Sanitize Desks,FALSE,20,Counter,FALSE,47,Back Windows,FALSE,52,Organize closet,FALSE,,,
+5,Garbage,FALSE,29,Dust pictures and letters,FALSE,21,Sweep floor,FALSE,48,Organize closet,FALSE,53,Walls,FALSE,,,
+10,Sweep Floor,FALSE,30,Front Windows,FALSE,22,Walls,FALSE,49,Walls,FALSE,54,D.I. Run,FALSE,,,
+11,Stovetop,FALSE,31,Clean off cork board,FALSE,42,Shower (Use scrubbie and soft scrub on walls),FALSE,50,Dust pictures and letters,FALSE,,,,,,
+12,Clean out fridge,FALSE,32,Vacuum couches/Under,FALSE,43,Tub (Use scrubbie and soft scrub),FALSE,,,,,,,,,
+13,Clean the sink,FALSE,33,Walls,FALSE,44,Mop floor,FALSE,,,,,,,,,
+14,Wipe off the hood of stove,FALSE,34,Wipe off door/sanitize handle,FALSE,45,Organize under sink,FALSE,,,,,,,,,
+15,Organize cupboards,FALSE,,,,46,Organize drawers,FALSE,,,,,,,,,
+16,Organize drawers,FALSE,,,,,,,,,,,,,,,
+17,Wipe off cupboards,FALSE,,,,,,,,,,,,,,,
+35,Clean fridge,FALSE,,,,,,,,,,,,,,,
+36,Clean freezer,FALSE,,,,,,,,,,,,,,,
+37,Clean out freezer,FALSE,,,,,,,,,,,,,,,
+38,Mop Floor,FALSE,,,,,,,,,,,,,,,
+40,Walls,FALSE,,,,,,,,,,,,,,,
+41,Oven,FALSE,,,,,,,,,,,,,,,

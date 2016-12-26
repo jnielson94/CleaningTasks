@@ -1,0 +1,284 @@
+{
+  "sections": [
+    {
+      "section": "Kitchen",
+      "tasks": [
+        {
+          "priority": 2,
+          "name": "Dishes",
+          "needed": false
+        },
+        {
+          "priority": 3,
+          "name": "Wipe off counters",
+          "needed": false
+        },
+        {
+          "priority": 4,
+          "name": "Wipe/Clear off table",
+          "needed": false
+        },
+        {
+          "priority": 5,
+          "name": "Garbage",
+          "needed": false
+        },
+        {
+          "priority": 10,
+          "name": "Sweep Floor",
+          "needed": false
+        },
+        {
+          "priority": 11,
+          "name": "Stovetop",
+          "needed": false
+        },
+        {
+          "priority": 12,
+          "name": "Clean out fridge",
+          "needed": false
+        },
+        {
+          "priority": 13,
+          "name": "Clean the sink",
+          "needed": false
+        },
+        {
+          "priority": 14,
+          "name": "Wipe off the hood of stove",
+          "needed": false
+        },
+        {
+          "priority": 15,
+          "name": "Organize cupboards",
+          "needed": false
+        },
+        {
+          "priority": 16,
+          "name": "Organize drawers",
+          "needed": false
+        },
+        {
+          "priority": 17,
+          "name": "Wipe off cupboards",
+          "needed": false
+        },
+        {
+          "priority": 35,
+          "name": "Clean fridge",
+          "needed": false
+        },
+        {
+          "priority": 36,
+          "name": "Clean freezer",
+          "needed": false
+        },
+        {
+          "priority": 37,
+          "name": "Clean out freezer",
+          "needed": false
+        },
+        {
+          "priority": 38,
+          "name": "Mop Floor",
+          "needed": false
+        },
+        {
+          "priority": 40,
+          "name": "Walls",
+          "needed": false
+        },
+        {
+          "priority": 41,
+          "name": "Oven",
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Living Room",
+      "tasks": [
+        {
+          "priority": 1,
+          "name": "Clear clutter",
+          "needed": false
+        },
+        {
+          "priority": 8,
+          "name": "Vacuum Apartment",
+          "needed": false
+        },
+        {
+          "priority": 9,
+          "name": "Dust and Sanitize Desks",
+          "needed": false
+        },
+        {
+          "priority": 29,
+          "name": "Dust pictures and letters",
+          "needed": false
+        },
+        {
+          "priority": 30,
+          "name": "Front Windows",
+          "needed": false
+        },
+        {
+          "priority": 31,
+          "name": "Clean off cork board",
+          "needed": false
+        },
+        {
+          "priority": 32,
+          "name": "Vacuum couches/Under",
+          "needed": false
+        },
+        {
+          "priority": 33,
+          "name": "Walls",
+          "needed": false
+        },
+        {
+          "priority": 34,
+          "name": "Wipe off door/sanitize handle",
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Hallway",
+      "tasks": [
+        {
+          "priority": 27,
+          "name": "Edge vacuum",
+          "needed": false
+        },
+        {
+          "priority": 28,
+          "name": "Dust",
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Bathroom",
+      "tasks": [
+        {
+          "priority": 18,
+          "name": "Toilet (Scrub inside, wipe outside) Sanitize",
+          "needed": false
+        },
+        {
+          "priority": 19,
+          "name": "Mirror",
+          "needed": false
+        },
+        {
+          "priority": 20,
+          "name": "Counter",
+          "needed": false
+        },
+        {
+          "priority": 21,
+          "name": "Sweep floor",
+          "needed": false
+        },
+        {
+          "priority": 22,
+          "name": "Walls",
+          "needed": false
+        },
+        {
+          "priority": 42,
+          "name": "Shower (Use scrubbie and soft scrub on walls)",
+          "needed": false
+        },
+        {
+          "priority": 43,
+          "name": "Tub (Use scrubbie and soft scrub)",
+          "needed": false
+        },
+        {
+          "priority": 44,
+          "name": "Mop floor",
+          "needed": false
+        },
+        {
+          "priority": 45,
+          "name": "Organize under sink",
+          "needed": false
+        },
+        {
+          "priority": 46,
+          "name": "Organize drawers",
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Our Room",
+      "tasks": [
+        {
+          "priority": 6,
+          "name": "Make Bed",
+          "needed": false
+        },
+        {
+          "priority": 7,
+          "name": "De-clutter and organize",
+          "needed": false
+        },
+        {
+          "priority": 47,
+          "name": "Back Windows",
+          "needed": false
+        },
+        {
+          "priority": 48,
+          "name": "Organize closet",
+          "needed": false
+        },
+        {
+          "priority": 49,
+          "name": "Walls",
+          "needed": false
+        },
+        {
+          "priority": 50,
+          "name": "Dust pictures and letters",
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Zach's Room",
+      "tasks": [
+        {
+          "priority": 25,
+          "name": "De-clutter",
+          "needed": false
+        },
+        {
+          "priority": 51,
+          "name": "Dust piano",
+          "needed": false
+        },
+        {
+          "priority": 52,
+          "name": "Organize closet",
+          "needed": false
+        },
+        {
+          "priority": 53,
+          "name": "Walls",
+          "needed": false
+        },
+        {
+          "priority": 54,
+          "name": "D.I. Run",
+          "needed": false
+        }
+      ]
+    }
+  ]
+}

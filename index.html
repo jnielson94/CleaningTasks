@@ -1,0 +1,55 @@
+<html>
+<head>
+    <title>Cleanliness Score</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    
+</head>
+<body ng-app="cleanliness" >
+    <div class="container" ng-controller="cleanlinessController as cc">
+        <div class="row">
+            <div class="col-md-4" ng-repeat="section in sections">
+                <h2>{{section.section}}</h2>
+                <div class="items-section">
+                    <form class="form-inline" action="" ng-repeat="task in section.tasks">
+                        <span class="item-title">{{task.name}}</span>
+                        <label class="switch">
+                            <input type="checkbox" ng-model="task.needed">
+                            <div class="slider round"></div>
+                        </label>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                <h2>Your Top Priorities</h2>
+                <button class="btn btn-primary" type="reset" ng-click="updatePriorities()">Update Priorities</button>
+                <a class="btn btn-success" id="priorities-mailto" ng-href="mailto:?subject={{mailToSubject}}&body={{mailToBody}}">Email the list!</a>
+                <div class="resultsSection">
+                    <ol>
+                        <li class="priorityTask" ng-repeat="task in priorities | orderBy : priority">{{task.name}}</li>
+                    </ol>
+                </div>
+                <!-- TODO: Add a mailto link that has the top priorities? -->
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+    <script>
+  // Initialize Firebase
+      var config = {
+            apiKey: "AIzaSyC35MRYN1gihOrxJcaeh-zqSJwtUR2KAwY",
+                        authDomain: "familyapp-50d9f.firebaseapp.com",
+                            databaseURL: "https://familyapp-50d9f.firebaseio.com",
+                                storageBucket: "familyapp-50d9f.appspot.com",
+                                    messagingSenderId: "39362529308"
+                                        };
+  firebase.initializeApp(config);
+    </script>
+    <script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

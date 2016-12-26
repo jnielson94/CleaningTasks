@@ -1,0 +1,164 @@
+{
+  "sections": [
+  {
+      "section": "Kitchen",
+      "tasks": [
+        {
+          "name": "Sweep Floor",
+          "priority": 2,
+          "needed": false
+        },
+        {
+          "name": "Mop",
+          "priority": 2,
+          "needed": false
+        },
+        {
+          "name": "Dishes",
+          "priority": 2,
+          "needed": false
+        },
+        {
+          "name": "Garbage",
+          "priority": 2,
+          "needed": false
+        },
+      ]
+    },
+    {
+      "section": "Living Room",
+      "tasks": [
+        {
+          "name": "Vacuum",
+          "priority": 2,
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Hallway",
+      "tasks": [
+        {
+          "name": "Vacuum",
+          "priority": 2,
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Bathroom",
+      "tasks": [
+        {
+          "name": "Sweep",
+          "priority": 2,
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Our Room",
+      "tasks": [
+        {
+          "name": "Vacuum",
+          "priority": 2,
+          "needed": false
+        }
+      ]
+    },
+    {
+      "section": "Zach's Room",
+      "tasks": [
+        {
+          "name": "Vacuum",
+          "priority": 2,
+          "needed": false
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "name": "Clean fridge",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Garbage",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Wipe off cupboards",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Wipe off counters",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Dishes",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Clean freezer",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Clean out freezer",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Walls",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Windows/sills",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Organize drawers",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Organize cupboards",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Mop Floor",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Oven",
+  "priority": 2,
+  "needed": false
+},
+{
+  "name": "Wipe/Clear off table",
+  "priority": 2,
+  "needed": false
+},
+
+
+
+
+
+
+
+
+
+
+Clean the sink
+Wipe off the hood of stove
+Stovetop
+Clean out fridge
